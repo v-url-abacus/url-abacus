@@ -71,3 +71,5 @@ Remember, always prioritize caution when exploring darknet platforms. Use the of
 
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/core/footer.webp" alt="Abacus Login" style="max-width: 100%;"></a>  
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/core/side.webp" alt="Abacus Register" style="max-width: 100%;"></a>
+
+Update: Anchors updated
