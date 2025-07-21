@@ -74,4 +74,6 @@ Remember, always prioritize caution when exploring darknet platforms. Use the of
 
 
 
-Update:  07/18/2025 15-09-32 Fixed broken url, now accessible and live
+
+
+Update: Link is now responsive and live
