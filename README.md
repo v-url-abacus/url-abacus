@@ -76,4 +76,6 @@ Remember, always prioritize caution when exploring darknet platforms. Use the of
 
 
 
-Update: Link is now responsive and live
+
+
+Update:  24 July 2025 Link is now accessible and functioning
