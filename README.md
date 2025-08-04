@@ -78,4 +78,6 @@ Remember, always prioritize caution when exploring darknet platforms. Use the of
 
 
 
-Update:  24 July 2025 Link is now accessible and functioning
+
+
+Update:  04 August 2025
