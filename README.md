@@ -80,4 +80,6 @@ Remember, always prioritize caution when exploring darknet platforms. Use the of
 
 
 
-Update:  04 August 2025
+
+
+Update:  13 August
