@@ -82,4 +82,6 @@ Remember, always prioritize caution when exploring darknet platforms. Use the of
 
 
 
-Update:  13 August
+
+
+Update:  19 August url is now responsive and live
